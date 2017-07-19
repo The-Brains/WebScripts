@@ -1,11 +1,8 @@
 // ==UserScript==
 // @name         Youtube Scroll 'scrollToNew'
-// @namespace    http://your.homepage/
-// @version      0.1
-// @description  enter something useful
-// @author       You
+// @version      1.3
+// @author       Leo Benkel
 // @match        https://www.youtube.com/feed/subscriptions*
-// @grant        none
 // @require      https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.4/lodash.min.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js
 // ==/UserScript==
