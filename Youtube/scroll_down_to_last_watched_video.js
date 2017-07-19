@@ -2,6 +2,7 @@
 // @name         Youtube Scroll 'scrollToNew'
 // @version      1.3
 // @author       Leo Benkel
+// @description  Check out the article here: http://leobenkel.com/2016/02/tampermonkey-youtube-subscription-button-to-scroll-to-last-viewed/
 // @match        https://www.youtube.com/feed/subscriptions*
 // @require      https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.4/lodash.min.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js
